@@ -1,0 +1,4 @@
+﻿Модель,Precision@3,MRR
+MPNet (multilingual),0.92,0.662
+LaBSE (доп.),0.92,0.733
+MiniLM (multilingual),0.8,0.641
